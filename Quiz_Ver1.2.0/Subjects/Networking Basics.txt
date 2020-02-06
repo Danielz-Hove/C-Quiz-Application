@@ -1,0 +1,151 @@
+How long is an IPv6 address?.
+
+		 A > 32 bits  B > 128 bytes
+
+		 C > 64 bits  D > 128 bits
+-NETWORKING BASICS-15-D,Which WLAN IEEE specification allows up to 54Mbps at 2.4GHz?.
+
+		 A > A  B > B
+
+		 C > G  D > N
+-NETWORKING BASICS-15-C,What protocol does PPP use to identify the Network layer protocol?.
+
+		 A > NCP  B > ISDN
+
+		 C > HDLC  D > LCP
+-NETWORKING BASICS-20-A,Which protocol does DHCP use at the Transport layer?.
+
+		 A > IP  B > TCP
+
+		 C > UDP  D > ARP
+-NETWORKING BASICS-15-C,Where is hub specified in the OSI model?.
+
+		 A > Session layer  B > Physical layer
+
+		 C > Data Link layer  D > Application layer
+-NETWORKING BASICS-10-B,Which protocol is used to send a destination network unkwown message back to originating hosts?.
+
+		 A > TCP  B > ARP
+
+		 C > ICMP  D > BootP
+-NETWORKING BASICS-20-C,How often are BPDUs sent from a layer 2 device?.
+
+		 A > Never  B > Every 2 seconds
+
+		 C > Every 10 seconds  D > Every 30 seconds
+-NETWORKING BASICS-15-B,How many broadcast domains are created when you segment a network with 12_port switch?.
+
+		 A > 1  B > 2
+
+		 C > 5  D > 12
+-NETWORKING BASICS-15-A,Which class of IP address has the most host addresses available by default?.
+
+		 A > A  B > B
+
+		 C > C  D > D and b
+-NETWORKING BASICS-15-A,How many digits of the DNIC(Data Network Identification Code) Identify the country?.
+
+		 A > first three  B > first four
+
+		 C > first five  D > first six
+-NETWORKING BASICS-20-A,Frames from one LAN can be transmitted to another LAN via the device?.
+
+		 A > Router  B > Bridge
+
+		 C > Repeater  D > Modem
+-NETWORKING BASICS-15-B,What are the most commonly used transmission spedds in BPS used in data communication?.
+
+		 A > 300  B > 1200
+
+		 C > 2400  D > 9600
+-NETWORKING BASICS-20-D,What is the default subnet mask for a class C network?.
+
+		 A > 127.0.0.1  B > 255.0.0.0
+
+		 C > 255.255.0.0  D > 255.255.255.0
+-NETWORKING BASICS-20-D,Which of the following is used for modulation and demodulation?.
+
+		 A > modem  B > protocols
+
+		 C > gateway  D > multiplexer
+-NETWORKING BASICS-10-A,Which of the following is not a disadvantage of wireless LAN?.
+
+		 A > Slow data transmission  B > higher error rate
+
+		 C > Interference of transmissions from different compuAll of the above  D > All of the above
+-NETWORKING BASICS-15-D,How many hosts are attached to each of the local area networks at your site?.
+
+		 A > 128  B > 254
+
+		 C > 256  D > 64
+-NETWORKING BASICS-15-B,Avalanche photodiode receivers can detect hits of transmitted data by receiving ?.
+
+		 A > 100 photons  B > 200 photons
+
+		 C > 300 photons  D > 400 photons
+-NETWORKING BASICS-15-B,When you ping the loopback address. a packet is sent where ?.
+
+		 A > On the network  B > Down through the layers of the IP architecture and then up the layers again
+
+		 C > Across the wire  D > through the loopback dongle
+-NETWORKING BASICS-15-B,Which protocol does DHCP use at the Transport layer?.
+
+		 A > IP  B > TCP
+
+		 C > UDP  D > ARP
+-NETWORKING BASICS-15-C,Where is hub specified in the OSI model?.
+
+		 A > Session layer  B > Physical layer
+
+		 C > Data link layer  D > Application layer
+-NETWORKING BASICS-15-B,How often are BPDUs sent from a layer 2 device?.
+
+		 A > Never  B > Every 2 Seconds
+
+		 C > Every 10 minutes  D > Every 30 seconds
+-NETWORKING BASICS-15-B,How many broadcast domains are created when you segment a network with a 12 port swtich?.
+
+		 A > 1  B > 2
+
+		 C > 5  D > 12
+-NETWORKING BASICS-10-A,Which class of IP address has the most host addrresses available by default?.
+
+		 A > A  B > B
+
+		 C > C  D > A and B
+-NETWORKING BASICS-15-A,In a network with dozens of switches how many root bridges would you have?.
+
+		 A > 1  B > 2
+
+		 C > 5  D > 12
+-NETWORKING BASICS-15-A,What PPP protocol provides dynamic addressing authentication and multilink?.
+
+		 A > NCP  B > HDLC
+
+		 C > LCP  D > X.25
+-NETWORKING BASICS-15-C,How many collision domains are created when you segment a network with a 12 port switch?.
+
+		 A > 1  B > 2
+
+		 C > 5  D > 12
+-NETWORKING BASICS-15-D,Which protocol does Ping use?.
+
+		 A > TCP  B > ARP
+
+		 C > ICMP  D > BootP
+-NETWORKING BASICS-15-C,What layer in the TCP/IP stack is equivalent to the Transport layer of the OSI model?.
+
+		 A > Application  B > Host to Host
+
+		 C > Internet  D > Network Access
+-NETWORKING BASICS-15-B,Which of the following is private IP address?.
+
+		 A > 12.0.0.1  B > 168.172.19.39
+
+		 C > 172.15.14.36  D > 192.168.24.43
+-NETWORKING BASICS-15-D,Which of the following allows a router to respond to and ARP request that is intended for a remote host?.
+
+		 A > Gatewaye DP  B > Reverse ARP (RARP)
+
+		 C > Proxy ARP  D > Inverse ARP(IARP)
+-NETWORKING BASICS-15-C,

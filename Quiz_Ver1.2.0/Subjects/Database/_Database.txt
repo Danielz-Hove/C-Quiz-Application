@@ -1,0 +1,6 @@
+COMPUTER BASICS-Subjects//Computer Basics.txt-Subjects//Highest_scores//COMPUTER BASICS.txt,
+NETWORKING BASICS-Subjects//Networking Basics.txt-Subjects//Highest_scores//NETWORKING BASICS.txt,
+HARDWARE BASICS-Subjects//Hardware Basics.txt-Subjects//Highest_scores//HARDWARE BASICS.txt,
+C LANGUAGE BASICS-Subjects//C Language Basics.txt-Subjects//Highest_scores//C LANGUAGE BASICS.txt,
+HTML-Subjects//HTML.txt-Subjects//Highest_scores//HTML.txt,
+XOX-Subjects//XOX.txt-Subjects//Highest_scores//XOX.txt,

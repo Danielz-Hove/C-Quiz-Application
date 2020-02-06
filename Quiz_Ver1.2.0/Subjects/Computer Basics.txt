@@ -1,0 +1,126 @@
+WWW stands for?.
+
+		 A > World Worm Web  B > World Wide Web
+
+		 C > World Word Web  D > None of the above
+-COMPUTER BASICS-10-B,_________ is used to communicate from one city to another?.
+
+		 A > WAN  B > MAN
+
+		 C > LAN  D > All of the above
+-COMPUTER BASICS-15-A,Speedometer is an example of _______ comupters?.
+
+		 A > Hybrid  B > Digital
+
+		 C > Analog  D > None of the above
+-COMPUTER BASICS-15-C,Which of the following software is used to view web pages?.
+
+		 A > Web Browser  B > Internet Browser
+
+		 C > Page Browser  D > All of the above
+-COMPUTER BASICS-10-A,Which of the following is used to save the frequently visited web sites?.
+
+		 A > Frequent List  B > Favourites List
+
+		 C > Explorere List  D > None of the above
+-COMPUTER BASICS-15-B,Which of the following is a presentation program?.
+
+		 A > MS Word  B > MS Excel
+
+		 C > MS Power Point  D > MS Access
+-COMPUTER BASICS-10-C,ISP stands for?.
+
+		 A > International Service Provider  B > Internet Service Provider
+
+		 C > Internet Service Presenter  D > None of the above
+-COMPUTER BASICS-15-B,Every number system has a base. which is called____________?.
+
+		 A > index  B > Subscript
+
+		 C > Radix  D > None of the above
+-COMPUTER BASICS-20-C,A Bit stands for?.
+
+		 A > Binary Digit  B > Binary Data
+
+		 C > Binary Deci  D > None of the above
+-COMPUTER BASICS-10-A,______ is a Collection of 1024 Bytes?.
+
+		 A > 1MB  B > 1KB
+
+		 C > 1TB  D > 1GB
+-COMPUTER BASICS-10-B,Vacuum tubes were used in the _____ generation?.
+
+		 A > First  B > Third
+
+		 C > Fourth  D > Fifth
+-COMPUTER BASICS-20-A,Which of the following is a storage device?.
+
+		 A > Hard Disk  B > USB Disk
+
+		 C > Floppy Disk  D > All of the above
+-COMPUTER BASICS-10-D,BCD is?.
+
+		 A > Binary Coded Digit  B > Binary Coded Decimal
+
+		 C > Bit Coded Decimal  D > Bit Coded Digit
+-COMPUTER BASICS-15-B,Which of the following is first generation of computer?.
+
+		 A > ICL 2900  B > CDC 1604
+
+		 C > IBM 1401  D > EDSAC
+-COMPUTER BASICS-20-D,FORTRAN is________?.
+
+		 A > File Translation  B > Floppy Translation
+
+		 C > Format Translation  D > Formula Translation
+-COMPUTER BASICS-20-C,Chief component of first generation computer was?.
+
+		 A > Vacuum Tubes and Valves  B > Transistors
+
+		 C > Integrated Circuits  D > All of the above
+-COMPUTER BASICS-20-A,Second Generation computers were developed during?.
+
+		 A > 1970 to 1990  B > 1965 to 1970
+
+		 C > 1956 to 1965  D > 1949 to 1955
+-COMPUTER BASICS-15-C,Microprocessors as switching devices are for which generation computers?.
+
+		 A > First Generation  B > Second Generation
+
+		 C > Third Generation  D > Fourth Generation
+-COMPUTER BASICS-15-D,UNIVAC is?.
+
+		 A > Universal Automatic Computer  B > Unique Automatic Computer
+
+		 C > Unique Array Computer  D > Unvalued Array Computer
+-COMPUTER BASICS-15-A,CD ROM stands for?.
+
+		 A > Compact Data Read Only Memory  B > Compact Disk Read Only Memory
+
+		 C > Compactable Disk Read Only Memory  D > Compactable Read Only Memory
+-COMPUTER BASICS-10-B,MSI stands for?.
+
+		 A > Medium Scale Integrated Circuits  B > Medium System Intelligent Circuit
+
+		 C > Medium Scale Intelligent Circuit  D > Medium System Integrated Circuits
+-COMPUTER BASICS-20-A,The capacity of 3.5 inch floppy disk is?.
+
+		 A > 1.48MB  B > 1.46MB
+
+		 C > 1.22MB  D > 1.44MB
+-COMPUTER BASICS-10-D,Which of the following devices can be used to directly image the printed text?.
+
+		 A > MICR  B > OCR
+
+		 C > OMR  D > All of the above
+-COMPUTER BASICS-15-B,In analog computer ?.
+
+		 A > Output is displayed in digital form  B > Input is first converted to digital form
+
+		 C > Input is never converted to digital form  D > All of the above
+-COMPUTER BASICS-15-C,The output quality of a printer is measured by?.
+
+		 A > Dots printed per unit  B > Dot per Inch
+
+		 C > Dot per sq.inh  D > All of the above
+-COMPUTER BASICS-10-C,

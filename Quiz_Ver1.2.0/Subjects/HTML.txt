@@ -1,0 +1,101 @@
+Who is making the Web Standards?.
+
+		 A > Mozilla  B > Microsoft
+
+		 C > Apple  D > The World Wide Web Consortium
+-HTML-10-D,What does HTML stand for?.
+
+		 A > Hyper Text Markup Language  B > Hyperlinks and Text Markup Language
+
+		 C > Home Tool Markup Language  D > Hyper Tool Markup Language
+-HTML-10-A,What is the correct sequence of HTML tags for starting  a webpage?.
+
+		 A > Head > Title > HTML  B > Title > Head > HTML
+
+		 C > HTML > Head >Title  D > Head > Title > HTML
+-HTML-10-C,Choose the correct HTML tag for the largest heading?.
+
+		 A > H1  B > Heading
+
+		 C > Head  D > H6
+-HTML-10-A,What is the correct HTML for adding a background color?.
+
+		 A > Body style = "background color : yellow"  B > Background yellow/background
+
+		 C > Body yellow = "yellow"  D > Bockground yellow = "yellow"
+-HTML-10-C,Choose the correct  HTML tag to make text bold?.
+
+		 A > Bold  B > B
+
+		 C > Bld  D > BB
+-HTML-10-B,Choose the correct HTML tag to make a text italic?.
+
+		 A > I  B > Italic
+
+		 C > It  D > TT
+-HTML-10-A,How can you create an email link?.
+
+		 A > A href = "mailto:xxx@yyy"  B > A href = "xxx@yyy"
+
+		 C > Mail >"xxx@yyy"  D > Mail href = "xxx@yyy"
+-HTML-10-A,How can you make a list that lists the items with numbers?.
+
+		 A > Ol  B > Dl
+
+		 C > Ul  D > List
+-HTML-10-A,What is the correct HTML for inserting an image?.
+
+		 A > Img href = "imag.gif/  B > Img src = "imag.gif" /
+
+		 C > Image src = "imag.gif" /  D > Img >image.gif
+-HTML-10-B,A "radio" button used on a web page. Would allow a person to select ?.
+
+		 A > More than one item  B > Only one item
+
+		 C > two items  D > four items
+-HTML-10-B,What identifies the start of a two sided tag?.
+
+		 A > Start Tag  B > Beginning Tag
+
+		 C > Opening Tag  D > Number One Tag
+-HTML-15-C,What tag tells the computer that the document is going to be a HTML document?.
+
+		 A > Tell Tag  B > HTML Tag
+
+		 C > Creation Tag  D > Indentify Tag
+-HTML-15-B,What tag will have the information that will be displayed in the Web Page?.
+
+		 A > HTML Tag  B > Body Tag
+
+		 C > Head Tag  D > Title Tag
+-HTML-15-B,What tag is used to insert a graphic?.
+
+		 A > The graphic tag  B > The image scr tag
+
+		 C > The image tag  D > The graphic src tag
+-HTML-15-C,How many HTML headings are available?.
+
+		 A > 2  B > 4
+
+		 C > 6  D > 8
+-HTML-10-C,When using a color value the numbers are separated by ______________?.
+
+		 A > Periods  B > Commas
+
+		 C > Semi Colons  D > Colons
+-HTML-10-B,How many generic fonts are available?.
+
+		 A > 2  B > 3
+
+		 C > 4  D > 5
+-HTML-20-D,Which heading tag will create the largest heading?.
+
+		 A > H1  B > H2
+
+		 C > H5  D > H6
+-HTML-10-A,dgdf?.
+
+		 A > ads  B > ssd
+
+		 C > aa  D > sd
+-HTML-20-A,

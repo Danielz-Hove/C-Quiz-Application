@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1547460376 source:c:\users\daniel hov\desktop\new folder\quiz_ver1.2.0\colors.c
+	<windows.h>
+	"Color_Definations.h"
+
+1547460040 c:\users\daniel hov\desktop\new folder\quiz_ver1.2.0\color_definations.h
+
+1547460065 source:c:\users\daniel hov\desktop\new folder\quiz_ver1.2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dir.h>
+	<windows.h>
+	<conio.h>
+	"Color_Definations.h"
+	"_header.h"
+
+1546343917 c:\users\daniel hov\desktop\new folder\quiz_ver1.2.0\header.h
+
+1547457601 c:\users\daniel hov\desktop\new folder\quiz_ver1.2.0\_header.h
+
+1547460376 source:c:\users\yteez\onedrive\desktop\quiz_ver1.2.0\colors.c
+	<windows.h>
+	"Color_Definations.h"
+
+1547460040 c:\users\yteez\onedrive\desktop\quiz_ver1.2.0\color_definations.h
+
+1547498102 source:c:\users\yteez\onedrive\desktop\quiz_ver1.2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dir.h>
+	<windows.h>
+	<conio.h>
+	"Color_Definations.h"
+	"_header.h"
+
+1547457601 c:\users\yteez\onedrive\desktop\quiz_ver1.2.0\_header.h
+
+1576678417 source:c:\users\yteez\onedrive\desktop\past projects\quiz_ver1.2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dir.h>
+	<windows.h>
+	<conio.h>
+	"Color_Definations.h"
+	"_header.h"
+
+1547460040 c:\users\yteez\onedrive\desktop\past projects\quiz_ver1.2.0\color_definations.h
+
+1547457601 c:\users\yteez\onedrive\desktop\past projects\quiz_ver1.2.0\_header.h
+
+1547460376 source:c:\users\yteez\onedrive\desktop\past projects\quiz_ver1.2.0\colors.c
+	<windows.h>
+	"Color_Definations.h"
+

@@ -1,0 +1,146 @@
+From what location are the 1st computer instructions available on boot up?.
+
+		 A > ROM BIOS  B > CPU
+
+		 C > boot.ini  D > CNFIG.SYS
+-HARDWARE BASICS-15-A,What could cause a fixed disk error?.
+
+		 A > No CD installed  B > bad ram
+
+		 C > slow processor  D > Incorrect CMOS settings
+-HARDWARE BASICS-15-D,Missing slot covers ona computer can cause?.
+
+		 A > over heat  B > power surges
+
+		 C > EMI  D > Incomplete path for ESD
+-HARDWARE BASICS-15-A,When Installing PCI NICS you can check the IRQ availability by looking at ?.
+
+		 A > dip switches  B > CONFIG.SYS
+
+		 C > jumper settings  D > motherboard BIOS
+-HARDWARE BASICS-15-D,With respect to a network interface card.the term 10/100 refers to?.
+
+		 A > protocol speed  B > a fiber speed
+
+		 C > megabits per seconds  D > minimum and maximum server speed
+-HARDWARE BASICS-15-C,Which Motherboard form factor uses one 20 pin connector?.
+
+		 A > ATX  B > AT
+
+		 C > BABY AT  D > All of the above
+-HARDWARE BASICS-15-A,A hard disk is devided into tracks which are further subdevided into?.
+
+		 A > clusters  B > sectors
+
+		 C > vectors  D > heads
+-HARDWARE BASICS-15-B,A wrist grounding strap contains which of the following?.
+
+		 A > Surge protector  B > Capacitor
+
+		 C > Voltmeter  D > Resistor
+-HARDWARE BASICS-15-D,Which standard govern parallel communications?.
+
+		 A > RS232  B > RS 232a
+
+		 C > CAT 5  D > IEEE 1284
+-HARDWARE BASICS-15-D,What product is used to clean smudged keys on a keyboard?.
+
+		 A > TMC solvent  B > Silicone spray
+
+		 C > Denatured alcohol  D > All purpose cleaner
+-HARDWARE BASICS-15-D,ESD would cause the most damage to which componet?.
+
+		 A > Power supply  B > Expansion board
+
+		 C > Monitor  D > Keyboard
+-HARDWARE BASICS-15-B,Which peripheral port provides the FASTEST throughput to laser printers?.
+
+		 A > RS 232  B > SCSI
+
+		 C > Parallel  D > Serial
+-HARDWARE BASICS-15-C,The mouse pointer moves erratically.what is the possible cause?.
+
+		 A > ball is dirty  B > is not connected
+
+		 C > driver is not installed properly  D > has an incorrect IRQ setting
+-HARDWARE BASICS-15-A,Voltage is measured?.
+
+		 A > in parallel  B > in series
+
+		 C > after breaking the circuit  D > after checking resistance
+-HARDWARE BASICS-15-A,The 34 pin connection on an I/O card is for ?.
+
+		 A > Floppy drive  B > SCSI drive
+
+		 C > IDE drive  D > Zip drive
+-HARDWARE BASICS-15-A,On the 16 bit ISA bus.IRQ2 is elevated to which higher level interrupt?.
+
+		 A > 9  B > 11
+
+		 C > 13  D > 15
+-HARDWARE BASICS-15-A,What beep codes could indicate a system board or power supply failure?.
+
+		 A > steady short beep  B > no beep
+
+		 C > one long continuous beep  D > All of the above
+-HARDWARE BASICS-15-D,To view any currently running Terminate Stay Resident(TSRs) programs. you could type?.
+
+		 A > Memory  B > MEM
+
+		 C > SYS/M  D > Memmaker
+-HARDWARE BASICS-15-B,Which part of the laser printer should NOT be exposed to sunlight?.
+
+		 A > Transfer corona assembly  B > PC drum
+
+		 C > Primary corona wire  D > Toner cartridge
+-HARDWARE BASICS-20-B,Resistance is measured in ?.
+
+		 A > Volts  B > Amps
+
+		 C > Watts  D > Ohms
+-HARDWARE BASICS-15-D,Which peripheral port provides the FASTEST throughput to laser printers?.
+
+		 A > RS 232  B > SCSI
+
+		 C > Parallel  D > Serial
+-HARDWARE BASICS-15-C,What command is used to reset a MODEM when using the AT Command Set?.
+
+		 A > ATR  B > ATZ
+
+		 C > DTR  D > DCE
+-HARDWARE BASICS-15-B,Wnen installing a SCSI CD ROM drive you mus set the CD ROM SCSI adapter to?.
+
+		 A > B0007  B > An unused SCSI address
+
+		 C > The same addres as the SCSI device  D > SCSI ID=1
+-HARDWARE BASICS-20-B,What tool is used to test serial and parallel ports?.
+
+		 A > high volt probe  B > cable scanner
+
+		 C > loop backs(wrap plugs)  D > sniffer
+-HARDWARE BASICS-15-C,ESD would cause the most damage to which componet?.
+
+		 A > Power supply  B > Expansion board
+
+		 C > Monitor  D > Keyboard
+-HARDWARE BASICS-15-B,What voltage does a Pentium system use?.
+
+		 A > +12 volts  B > +5 volts
+
+		 C > +8 volts  D > +3.3 volts
+-HARDWARE BASICS-10-D,A numeric code check A 17xx indicates a problem with?.
+
+		 A > CMOS  B > ROM BIOS
+
+		 C > DMA controller  D > hard drive or controller
+-HARDWARE BASICS-15-D,Which provides the fastest access to large video files?.
+
+		 A > Optical drives  B > IDE hard drives
+
+		 C > SCSI hard drives  D > EIDE hard drives
+-HARDWARE BASICS-15-C,A 25 pin female connector on the back of your computer will typically be?.
+
+		 A > Serial port 1  B > A parallel port
+
+		 C > Docking  D > COM2 port
+-HARDWARE BASICS-15-B,

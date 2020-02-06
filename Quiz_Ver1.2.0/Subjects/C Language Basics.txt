@@ -1,0 +1,81 @@
+Which of the following special symbol is allowed in a variable name?.
+
+		 A > *(asterich)  B > |(pipeline)
+
+		 C > +(plus)  D > _(underscore)
+-C LANGUAGE BASICS-10-D,How would you round off a value from 1.66 to 2.0?.
+
+		 A > ceil(1.66)  B > floor(1.66)
+
+		 C > roundup(1.66)  D > roundto(1.66)
+-C LANGUAGE BASICS-10-A,By default a real number is treated as a?.
+
+		 A > float  B > double
+
+		 C > long double  D > far double
+-C LANGUAGE BASICS-10-B,Which of the following is the correct usage of conditional operaters used in C?.
+
+		 A > a>b ? c=30 : c=40  B > a>b ? c=30
+
+		 C > max = a>b ? a>c ? a:c:b>c?b:c  D > return (a>b)? (a:b)
+-C LANGUAGE BASICS-20-C,What is (void*)0?.
+
+		 A > Representation of NULL pointer  B > Representation of void pointer
+
+		 C > Error  D > None of the above
+-C LANGUAGE BASICS-15-A,In which header file is the NULL macro defined?.
+
+		 A > stdio.h  B > stddef.h
+
+		 C > stdio.h and stddef.h  D > math.h
+-C LANGUAGE BASICS-15-C,The operator used to get value at address stored in a pointer variable is?.
+
+		 A > *  B > &
+
+		 C > &&  D > ||
+-C LANGUAGE BASICS-10-A,The keyword used to transfer control from a function back to the calling function is?.
+
+		 A > switch  B > goto
+
+		 C > go back  D > return
+-C LANGUAGE BASICS-10-D,Who is know as the father of C Language?.
+
+		 A > James A.Sosling  B > Vjarne Stroustrup
+
+		 C > Dennis Ritchie  D > Dre.E.F.Codd
+-C LANGUAGE BASICS-15-C,C language was developed in the year?.
+
+		 A > 1970  B > 1975
+
+		 C > 1980  D > 1985
+-C LANGUAGE BASICS-10-A,Prototype of a function means________?.
+
+		 A > Name of Function  B > Output of Function
+
+		 C > Declare of Function  D > Input of Function
+-C LANGUAGE BASICS-15-C,Which loop executes at least ouce even if the condition is false?.
+
+		 A > For  B > While
+
+		 C > if  D > Do while
+-C LANGUAGE BASICS-10-D,An uninitialized pointer in C is called _____?.
+
+		 A > Constructor  B > dangling pointer
+
+		 C > Wild pointer  D > Destructor
+-C LANGUAGE BASICS-15-C,A pointer that is pointing to NOTHING is called_________?.
+
+		 A > VOID Pointer  B > DANGLING Pointer
+
+		 C > NULL Pointer  D > WILD Pointer
+-C LANGUAGE BASICS-15-C,Set of consecutive memory locations is called as _______?.
+
+		 A > Pointer  B > Array
+
+		 C > Loop  D > Function
+-C LANGUAGE BASICS-15-B,Array can be considered as set of elements stored in consecutive memory locations but having __________?.
+
+		 A > Different Data Type  B > None of these
+
+		 C > Same Data Type  D > Same Scope
+-C LANGUAGE BASICS-15-C,
