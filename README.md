@@ -1,5 +1,6 @@
 # Past-Projects
 Final Project CAIT Course Software Engneering
-<img width="776" alt="snap_1" src="https://user-images.githubusercontent.com/48763151/205895562-e78e06fe-030a-404e-b75a-5a55b3cf463c.png">
-<img width="785" alt="snap_2" src="https://user-images.githubusercontent.com/48763151/205897533-c03f4510-fa87-4f88-80c9-7f3aafcc34bf.png">
-<img width="727" alt="snap_3" src="https://user-images.githubusercontent.com/48763151/205897551-2d154aca-71b5-4bb1-9dbc-d3d3a4bb7959.png">
+
+<img width="776" alt="snap_1 (2)" src="https://user-images.githubusercontent.com/48763151/205898514-e624ed43-eeb6-49de-a889-b1acc2e72684.png">
+<img width="785" alt="snap_2 (2)" src="https://user-images.githubusercontent.com/48763151/205898544-bd32eb06-c170-41b7-8cef-efbdfd9a0ae5.png">
+<img width="727" alt="snap_3 (2)" src="https://user-images.githubusercontent.com/48763151/205898572-7cce356d-9b54-4497-a13c-0de4896e045a.png">
