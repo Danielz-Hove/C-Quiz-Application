@@ -1,15 +1,23 @@
-# C Quiz Application
-Final Project CAIT Course Software Engneering
+# QuizMaster
 
-Output
-<img width="776" alt="snap_1 (2)" src="https://user-images.githubusercontent.com/48763151/205898514-e624ed43-eeb6-49de-a889-b1acc2e72684.png">
+## Overview
 
-<img width="785" alt="snap_2 (2)" src="https://user-images.githubusercontent.com/48763151/205898544-bd32eb06-c170-41b7-8cef-efbdfd9a0ae5.png">
+**QuizMaster** is an interactive quiz application developed in **C language** using **Code::Blocks** IDE. It allows users to participate in multiple-choice quizzes, answer questions, and receive a score at the end. The program is simple to use and provides immediate feedback, making it both fun and educational.
 
-<img width="727" alt="snap_3 (2)" src="https://user-images.githubusercontent.com/48763151/205898572-7cce356d-9b54-4497-a13c-0de4896e045a.png">
+## Features
 
+- **Multiple-Choice Questions**: Includes a set of multiple-choice questions with various answer options.
+- **Interactive User Interface**: Users can select answers and receive instant feedback.
+- **Score Calculation**: Displays the total score after completing the quiz.
+- **Lightweight and Simple**: Built with efficiency in mind, running in a terminal with a minimalistic design.
 
-## Subheader
+## Installation
 
+Follow these steps to compile and run the QuizMaster application:
 
-Git
+### Prerequisites
+
+Ensure you have the following installed:
+
+- **C Compiler**: A C compiler like **GCC** should be installed.
+- **Code::Blocks**: The development environment used for building the program.
